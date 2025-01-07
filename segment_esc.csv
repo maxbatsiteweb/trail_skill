@@ -1,0 +1,13 @@
+Athlete,Zone,Parcours,Date,allure_montee,allure_descente,allure_plat,Score,Score_montee,Score_descente,Score_plat,vap_montee,vap_descente,vap_plat
+Bataille Maxime,Lyon,Parcours 1,01/04/24,5:00,3:00,4:00,56,12,28,70,5:00,3:00,4:00
+Bataille Maxime,Lyon,Parcours 2,01/04/24,5:01,3:01,4:01,53,13,29,71,5:01,3:01,4:01
+Bataille Maxime,Lyon,Parcours 3,03/07/24,5:02,3:02,4:02,50,14,30,72,5:02,3:02,4:02
+Bataille Maxime,Lyon,Parcours 4,06/07/25,5:03,3:03,4:03,47,15,31,73,5:03,3:03,4:03
+Pigois Thomas,Marseille,Parcours 1,01/04/24,5:04,3:04,4:04,44,16,32,74,5:04,3:04,4:04
+Pigois Thomas,Marseille,Parcours 2,01/04/24,5:05,3:05,4:05,41,17,33,75,5:05,3:05,4:05
+Pigois Thomas,Marseille,Parcours 3,03/09/24,5:06,3:06,4:06,38,18,34,76,5:06,3:06,4:06
+Pigois Thomas,Marseille,Parcours 4,06/07/25,5:07,3:07,4:07,35,19,35,77,5:07,3:07,4:07
+Reze Romain,Savoie,Parcours 1,01/04/24,5:08,3:08,4:08,32,20,36,78,5:08,3:08,4:08
+Reze Romain,Savoie,Parcours 2,01/04/24,5:09,3:09,4:09,29,21,37,79,5:09,3:09,4:09
+Reze Romain,Savoie,Parcours 3,03/02/24,5:10,3:10,4:10,26,22,38,80,5:10,3:10,4:10
+Reze Romain,Savoie,Parcours 4,06/07/25,5:11,3:11,4:11,23,23,39,81,5:11,3:11,4:11

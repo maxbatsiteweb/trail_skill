@@ -3,9 +3,6 @@ from streamlit_echarts import st_echarts  # Pour le donut
 import pandas as pd
 import plotly.graph_objects as go
 
-
-
-
 st.image("logo_esc.png", width=150)
 
 # CSS personnalisé

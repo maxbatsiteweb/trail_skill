@@ -3,6 +3,10 @@ from streamlit_echarts import st_echarts  # Pour le donut
 import pandas as pd
 import plotly.graph_objects as go
 
+st.set_option('server.headless', True)  # Assurez-vous que l'application est en mode headless (utile en cloud)
+st.set_option('server.enableCORS', False)  # Si vous avez des problèmes avec les CORS
+
+
 st.image("logo_esc.png", width=150)
 
 # CSS personnalisé
